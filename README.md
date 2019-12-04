@@ -2,4 +2,4 @@
 
 # Grocery List
 
-The project aims to manage the content of your frigde
+The project aims to manage the groceries you typically order.
